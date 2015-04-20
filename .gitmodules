@@ -1,0 +1,3 @@
+[submodule "External/Mantle"]
+	path = External/Mantle
+	url = https://github.com/Mantle/Mantle.git

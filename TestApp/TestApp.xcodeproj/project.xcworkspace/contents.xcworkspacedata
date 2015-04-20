@@ -4,4 +4,7 @@
    <FileRef
       location = "self:TestApp.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:../../External/Mantle/Mantle.xcodeproj">
+   </FileRef>
 </Workspace>
